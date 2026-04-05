@@ -18,9 +18,8 @@
   "dependencies": {
     "@citation-js/core": "^0.7.21",
     "@citation-js/plugin-bibtex": "^0.7.21",
-    "@citation-js/plugin-csl": "^0.7.22",
+    "@citation-js/plugin-csl": "^0.7.21",
     "@citation-js/plugin-doi": "^0.7.21",
-    "@citation-js/plugin-pubmed": "^0.3.0",
     "@citation-js/plugin-ris": "^0.7.21",
     "@google/generative-ai": "^0.21.0",
     "axios": "^1.7.9",
