@@ -15,7 +15,6 @@ require('@citation-js/plugin-csl');
 require('@citation-js/plugin-bibtex');
 require('@citation-js/plugin-ris');
 require('@citation-js/plugin-doi');
-require('@citation-js/plugin-pubmed');
 
 class CitationJsService {
   constructor() {
