@@ -1,0 +1,1 @@
+export const Switch = (props: any) => <input type="checkbox" {...props} />

@@ -1,0 +1,1 @@
+export const AlertDialog = ({ children }: any) => <>{children}</>

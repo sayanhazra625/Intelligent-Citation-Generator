@@ -1,0 +1,1 @@
+export const Skeleton = ({ className, ...props }: any) => <div className={`animate-pulse rounded-md bg-muted ${className}`} {...props} />
